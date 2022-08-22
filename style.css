@@ -131,6 +131,7 @@ body {
 }
 
 .btn {
+    display: inline-block;
     border-radius: 1rem;
     cursor: pointer;
     text-decoration: none;

@@ -329,6 +329,9 @@
     .section__title-intro {
         font-size: 4.8rem;
     }
+    .section__title-description {
+        margin-bottom: 4.8rem;
+    }
     .btn__option-1:link,
     .btn__option-1:visited,
     .btn__option-2:link,
